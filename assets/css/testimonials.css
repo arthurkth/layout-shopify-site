@@ -119,6 +119,16 @@
     .testimonials__vector {
         display: none;
     }
+    .testimonials__card {
+        height: 22.5rem!important;
+    }
+    .testimonials__card-title {
+        font-size: 1.5rem;
+    }
+    .testimonials__card-comment,
+    .testimonials__card-person-name {
+        font-size: 1.2rem;
+    }
 }
 
 @media (min-width:992px) {

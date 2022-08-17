@@ -152,6 +152,9 @@
         padding: 0;
     }
 
+    .main-section__text {
+        font-size: 1.2rem;
+    }
     .main-section__ellipese--bottom-right,
     .main-section__ellipse--left,
     .main-section__ellipese--top-right, 
