@@ -109,9 +109,13 @@
     .pricing__container {
         flex-wrap: wrap;
         justify-content: center;
+        display: flex;
+        width: 94%;
+        justify-content: space-between;
+        margin: 0;
     }
     .pricing__card {
-        margin: 1rem 0;
+        margin: 1rem auto;
     }
 }
 

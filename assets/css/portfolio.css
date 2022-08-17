@@ -128,10 +128,15 @@
 
     .portfolio__grid {
         display: block;
+        width: 87%;
     }
     
+    .portfolio__grid-image {
+        margin: auto;
+    }
     .portfolio__grid-item {
         margin-bottom: 5rem;
+        max-width: unset;
     }
 
     .portfolio__grid-info {
